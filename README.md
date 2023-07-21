@@ -2,7 +2,7 @@
 
 ## Introduction to Recursion
 
-Recursion is a programming technique where a function calls itself to solve a problem. Let's explain recursion in the context of the provided Fibonacci code.
+Recursion is a programming technique where a function calls itself to solve a problem. Let's explain recursion in the context of the repo's Fibonacci code.
 
 The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1. The Fibonacci functions implemented here calculate the nth Fibonacci number using two different approaches: recursion and dynamic programming.
 
